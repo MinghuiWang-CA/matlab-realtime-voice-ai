@@ -33,10 +33,3 @@ The project was developed in three distinct stages to ensure a robust final syst
     * Signal Processing Toolbox
     * Deep Learning & Statistics Toolbox
     * Audio Toolbox
-
-<br>
-
-## Repository Structure
-* `/scripts`: Contains the code for the three main phases of the project.
-* `/models`: KNN and Neural Network training functions (e.g., `KNN_1.m`, `KNN_4.m`).
-* `/data`: Sample `.wav` audio files used for training and testing (Up, Down, Left, Right).
